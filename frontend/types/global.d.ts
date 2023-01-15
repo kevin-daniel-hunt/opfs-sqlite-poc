@@ -1,0 +1,2 @@
+
+  interface Window { sqliteWorker: Worker; }
